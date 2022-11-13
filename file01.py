@@ -14,6 +14,8 @@ def main(data:str):
     for i in n:
         b.append(int(i))
     return b
-print(main('data01.txt'))
+print(main("D:\GitHub\\file_handling_homework\\txt_file\data01.txt"))
 # Read data from file
+
+
 
