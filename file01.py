@@ -14,7 +14,7 @@ def main(data:str):
     for i in n:
         b.append(int(i))
     return b
-print(main("txt_file\data01.txt"))
+print(main("txt_file\\data01.txt"))
 # Read data from file
 
 
